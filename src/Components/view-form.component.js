@@ -56,8 +56,8 @@ export default class ViewForm extends Component {
     
     render() {
         return (
-            <div style={{width: 700}}>
-                <h3>&nbsp;&nbsp;&nbsp;View Details</h3>
+            <div style={{width:700}}>
+                <h3>&nbsp;&nbsp;&nbsp;Enter Student Details</h3>
                 <br/>
                 <form onSubmit={this.onSubmit}>
                     <div className="form-group"> 

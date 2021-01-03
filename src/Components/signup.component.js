@@ -105,7 +105,7 @@ export default class Signup extends Component {
         return (
             <div className="wrapper">
                 <div className="form-wrapper">
-                    <h1 class="signup-h1"> Create a Account</h1>
+                    <h1 class="signup-h1"> Create An Account</h1>
                     <br />
                         <form onSubmit={this.handleSubmit} class="signup-form">
                             <div className="Name">

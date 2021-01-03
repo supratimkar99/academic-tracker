@@ -30,7 +30,7 @@ class App extends Component {
                 <div className="collapse navbar-collapse">
                 <ul className="navbar-nav mr-auto">
                     <li className="navbar-item">
-                      <Link to="/view-form" className="nav-link">View Detail</Link>
+                      <Link to="/view-form" className="nav-link">Student Details</Link>
                     </li>
                 </ul>
                 </div>
